@@ -4,6 +4,8 @@ import copy
 from celluloid import Camera  # 保存动图时用，pip install celluloid
 import math
 
+
+
 class Config:
     """
     simulation parameter class
